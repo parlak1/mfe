@@ -7,6 +7,7 @@ export default () => {
       <h1>Container</h1>
       <hr />
       <MarketingApp />
+      <hr />
     </div>
   );
 };
